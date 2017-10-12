@@ -1,3 +1,3 @@
 # demogit
 
-mon super repo
+demo pour le Hacktoberfest
